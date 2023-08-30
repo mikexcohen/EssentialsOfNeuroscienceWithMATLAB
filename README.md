@@ -1,1 +1,4 @@
-# EssentialsOfNeuroscienceWithMATLAB
+# Essentials of Neuroscience with MATLAB
+
+
+
