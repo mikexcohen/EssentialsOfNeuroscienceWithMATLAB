@@ -1,15 +1,35 @@
 Please download the following zip file to get all the data:
 [https://sincxpress.com/neuroscience/matlab4neuros_module1.zip](https://sincxpress.com/neuroscience/matlab4neuros_module1.zip)
 
+
+
+
 Direct links to the videos in this module:
 
-: [Video 1](https://www.youtube.com/watch?v=ij8npj87Hg8&list=PLn0OLiymPak1b2aYULx6hDVU7wSGEUJqw&index=1&ab_channel=MikeXCohen)
+Video 1:
 
-: [Video 2](https://www.youtube.com/watch?v=OoOOlbMBW_Q&list=PLn0OLiymPak1b2aYULx6hDVU7wSGEUJqw&index=2&ab_channel=MikeXCohen)
+[![Video 1](https://img.youtube.com/vi/ij8npj87Hg8/hqdefault.jpg)](https://www.youtube.com/embed/ij8npj87Hg8)
 
-: [Video 3](https://www.youtube.com/watch?v=YWP8G1qLrL4&list=PLn0OLiymPak1b2aYULx6hDVU7wSGEUJqw&index=3&ab_channel=MikeXCohen)
 
-: [Video 4](https://www.youtube.com/watch?v=AogdorH6FVo&list=PLn0OLiymPak1b2aYULx6hDVU7wSGEUJqw&index=4&ab_channel=MikeXCohen)
+Video 2:
 
-: [Video 5](https://www.youtube.com/watch?v=QjdVuzwwx1k&list=PLn0OLiymPak1b2aYULx6hDVU7wSGEUJqw&index=5&ab_channel=MikeXCohen)
+[![Video 2](https://img.youtube.com/vi/OoOOlbMBW_Q/hqdefault.jpg)](https://www.youtube.com/embed/OoOOlbMBW_Q)
+
+
+Video 3:
+
+[![Video 2](https://img.youtube.com/vi/YWP8G1qLrL4/hqdefault.jpg)](https://www.youtube.com/embed/YWP8G1qLrL4)
+
+
+Video 4:
+
+[![Video 2](https://img.youtube.com/vi/AogdorH6FVo/hqdefault.jpg)](https://www.youtube.com/embed/AogdorH6FVo)
+
+
+Video 5:
+
+[![Video 2](https://img.youtube.com/vi/QjdVuzwwx1k/hqdefault.jpg)](https://www.youtube.com/embed/QjdVuzwwx1k)
+
+
+
 
