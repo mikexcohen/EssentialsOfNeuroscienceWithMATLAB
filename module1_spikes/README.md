@@ -4,7 +4,7 @@ Please download the following zip file to get all the data:
 
 
 
-Direct links to the videos in this module:
+Direct links to the videos in this module (to open videos in a new tab, press Ctrl+click or CMD+click).
 
 Video 1:
 
