@@ -4,6 +4,8 @@ The Essentials of Neuroscience With MATLAB course was developed to provide advan
 
 Main course collection on [INCF](https://training.incf.org/collection/essentials-neuroscience-matlab)
 
+The videos are also hosted on YouTube as a [playlist](https://www.youtube.com/watch?v=ij8npj87Hg8&list=PLn0OLiymPak1b2aYULx6hDVU7wSGEUJqw). And the direct video links are in each module folder.
+
 The course is designed for cumulative educational flow, such that maximal benefit will come from taking the modules in order. However, module access is unrestricted, which means that students will have the flexibility to custom-tailor their course progression if they wish to deviate from the recommended path.
 
 *Module 1: Spiking Data.* The goal of this module is to work with action potential data taken from a publicly available database. You will learn about spike counts, orientation tuning, and spatial maps. The MATLAB code introduces data types, for-loops and vectorizations, indexing, and data visualization.
