@@ -11,4 +11,6 @@ Direct links to the videos in this module (to open videos in a new tab, press Ct
 | Video #3 | [![Video 3](https://img.youtube.com/vi/mGudmVJQrLg/hqdefault.jpg)](https://www.youtube.com/embed/mGudmVJQrLg) |
 | Video #4 | [![Video 4](https://img.youtube.com/vi/ShM_17LtGX8/hqdefault.jpg)](https://www.youtube.com/embed/ShM_17LtGX8) |
 | Video #5 | [![Video 5](https://img.youtube.com/vi/KhVDsIfUV1M/hqdefault.jpg)](https://www.youtube.com/embed/KhVDsIfUV1M) |
+| Video #6 | [![Video 6](https://img.youtube.com/vi/nld5KFIG_EU/hqdefault.jpg)](https://www.youtube.com/embed/nld5KFIG_EU) |
+| Video #7 | [![Video 7](https://img.youtube.com/vi/diVa6pWeC2A/hqdefault.jpg)](https://www.youtube.com/embed/diVa6pWeC2A) |
 
