@@ -16,9 +16,12 @@ The course is designed for cumulative educational flow, such that maximal benefi
 | *Module 4* | fMRI | This module covers fMRI data, including creating and interpreting flatmaps, exploring variability and average responses, and visual eccentricity. You will learn about processing BOLD signals, trial-averaging, and t-tests. The MATLAB code introduces data animations, multicolor visualizations, and linear indexing. |
 | *Module 5* | Calcium Imaging | You will learn about working with calcium imaging data, including image processing to remove background "blur," identifying cells based on thresholded spatial contiguity, time series filtering, and principal components analysis (PCA). The MATLAB code shows data animations, capabilities of the image processing toolbox, and PCA. |
 
-
-
 Inside each folder you can find source code files, a link to download the data files for that module (they're too big to host on github), and direct links to the videos in each module.
+
+
+### The video below is the overall course introduction (to open videos in a new tab, press Ctrl+click or CMD+click).
+[![Video 1](https://img.youtube.com/vi/VnHeDXaCngg/hqdefault.jpg)](https://www.youtube.com/embed/VnHeDXaCngg)
+
 
 Enjoy!
 
