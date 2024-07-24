@@ -1,4 +1,4 @@
-Please download the following zip file to get all the code and data files:
+Please download the .m code files above; those scripts include code to download the data zip file:
 [https://sincxpress.com/neuroscience/matlab4neuros_module1.zip](https://sincxpress.com/neuroscience/matlab4neuros_module1.zip)
 
 
