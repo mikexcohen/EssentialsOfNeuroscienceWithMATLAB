@@ -39,6 +39,11 @@ close all; clear; clc
 % 
 %% Load the data
 
+% download from online and unpack
+websave('file.zip','https://sincxpress.com/neuroscience/matlab4neuros_module1.zip');
+unzip('file.zip');
+
+% import to matlab
 load('data_monkey1_gratings.mat')
 whos
 
@@ -136,7 +141,7 @@ subplot(5,1,2:4)
 bar(gradientOrient,averageSpikes)
 xlabel('Gradient orientation')
 ylabel('Average spike count')
-title([ 'Unit number ' num2str(randomunit) ' "prefers" ' num2str(gradientOrient(maxresp)) '$^\circ$' ],'Interpreter','latex')
+title("Unit number " + randomunit + " 'prefers' " + gradientOrient(maxresp) + "$^\circ$",'Interpreter','latex')
 
 % make the figure look a bit nicer
 set(gca,'fontsize',14,'xticklabel',gradientOrient)
