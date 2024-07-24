@@ -38,6 +38,11 @@ close all; clear; clc
 % 
 %% Load the data
 
+% download from online and unpack
+websave('file.zip','https://sincxpress.com/neuroscience/matlab4neuros_module4.zip');
+unzip('file.zip');
+
+
 load('exampledataset.mat')
 
 % explore the data
