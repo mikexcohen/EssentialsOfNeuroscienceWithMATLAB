@@ -29,6 +29,10 @@ close all; clear; clc
 % 
 %% Load the data
 
+% download from online and unpack
+websave('file.zip','https://sincxpress.com/neuroscience/matlab4neuros_module2.zip');
+unzip('file.zip');
+
 
 % load data
 load SSVEPdata.mat
