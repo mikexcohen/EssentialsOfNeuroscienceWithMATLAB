@@ -2,7 +2,10 @@ Please download the .m code files above; those scripts include code to download 
 [https://sincxpress.com/neuroscience/matlab4neuros_module4.zip](https://sincxpress.com/neuroscience/matlab4neuros_module4.zip)
 
 
-Direct links to the videos in this module (to open videos in a new tab, press Ctrl+click or CMD+click).
+
+Direct links to the videos in this module are below (to open videos in a new tab, press Ctrl+click or CMD+click).
+
+You can also access these on [YouTube here](https://www.youtube.com/watch?v=rwaBNxiCqvE&list=PLn0OLiymPak1b2aYULx6hDVU7wSGEUJqw&index=20&ab_channel=MikeXCohen).
 
 | Video number | Link (press Ctrl+click or CMD+click) |
 | :-----:      | :---: |
