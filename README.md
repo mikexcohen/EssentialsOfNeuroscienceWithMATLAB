@@ -13,7 +13,7 @@ The course is designed for[ cumulative educational flow]([url](https://training.
 [![Video 1](https://img.youtube.com/vi/VnHeDXaCngg/hqdefault.jpg)](https://www.youtube.com/embed/VnHeDXaCngg)
 
 
-| Module number | Topic | Description |   |
+| Module number | Topic | Description | Skills taught |
 |     :---:     | :---: |    :---     | :---: |
 | [*Module 1*](https://github.com/mikexcohen/EssentialsOfNeuroscienceWithMATLAB/tree/main/module1_spikes) | Spiking data | The goal of this module is to work with action potential data taken from a publicly available database. You will learn about spike counts, orientation tuning, and spatial maps. The MATLAB code introduces data types, for-loops and vectorizations, indexing, and data visualization. | ![](https://sincxpress.com/neuroscience/m1o.png) |
 | [*Module 2*](https://github.com/mikexcohen/EssentialsOfNeuroscienceWithMATLAB/tree/main/module2_EEG) | EEG | In this module, you will work with human EEG data recorded during a steady-state visual evoked potential study (SSVEP, aka flicker). You will learn about spectral analysis, alpha activity, and topographical mapping. The MATLAB code introduces functions, sorting, and correlation analysis. | ![](https://sincxpress.com/neuroscience/m2o.png) |
