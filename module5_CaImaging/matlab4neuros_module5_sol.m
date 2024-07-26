@@ -34,7 +34,7 @@ close all; clear; clc
 %% Load the data
 
 % download from online and unpack
-websave('file.zip','https://sincxpress.com/neuroscience/matlab4neuros_module5.zip');
+websave('file.zip','https://sincxpress.com/neuroscience/matlab4neuros_module5.zip',weboptions('Timeout',120));
 unzip('file.zip');
 
 
