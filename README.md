@@ -2,7 +2,10 @@
 
 The Essentials of Neuroscience With MATLAB course was developed to provide advanced undergraduates and early graduate students with a basic familiarity with MATLAB programming with an opportunity to deepen their expertise in neuroscience data analysis using MATLAB. Each module covers a range of specific data processing, analysis, and visualization skills that neuroscientists often need. In the process, each module teaches a specific set of MATLAB skills, although there is (both necessarily and by design) some overlap in skills across modules.
 
-Data files for the modules are available for download on [INCF TrainingSpace](https://training.incf.org/collection/essentials-neuroscience-matlab). 
+Data files for the modules are available for download via:
+- The subfolders above (and linked below);
+- On [INCF TrainingSpace](https://training.incf.org/collection/essentials-neuroscience-matlab).
+- Directly in MATLAB Online [![via this button](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mikexcohen/EssentialsOfNeuroscienceWithMATLAB)
 
 The videos are also hosted on YouTube as a [playlist](https://www.youtube.com/watch?v=VnHeDXaCngg&list=PLn0OLiymPak1b2aYULx6hDVU7wSGEUJqw). And the direct video links are in each module folder.
 
